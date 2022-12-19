@@ -11,7 +11,7 @@ import {LighthouseError} from '../lib/lh-error.js';
 import {Speedline} from '../computed/speedline.js';
 
 const NUMBER_OF_THUMBNAILS = 10;
-const THUMBNAIL_WIDTH = 120;
+const THUMBNAIL_WIDTH = 480;
 
 /** @typedef {LH.Artifacts.Speedline['frames'][0]} SpeedlineFrame */
 
